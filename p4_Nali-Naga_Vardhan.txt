@@ -1,0 +1,7 @@
+Steps that i have Applied :
+1.Transform Data that we need.
+2.select table view and make use of view coloum quality.
+3.Remove all errors and make them apply and continue and data is ready to use.
+4.next step is to use data visualization tools that are provided in power BI.
+NOTE:- I had removed the unusefull coloms like 1.customer name 2.customer id 
+     - these coloms mey be care sensitive as the contain personal detains as their name.
