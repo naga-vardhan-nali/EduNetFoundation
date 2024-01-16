@@ -1,0 +1,9 @@
+Steps that i have Applied :
+1.we have to be selective in taking attributes like sales and profit and many more atteibutes that are reuuired for the dashbords preparation.
+2.Select all the required fields and find the relation between them using the tools that are available to use in power BI dashBoards and make them efficient use of it.
+3.Fix the two attributes as the main fields as x -Axis and y-Axis 
+  -For example use sales as x-Axis and profit as y-Axis this will gives us the data of what
+   amount we get in return after all the making charges and as meny more.
+4.Like wise use all fields the you think as useful for your thinking and satesfies your targets use that data and built your insights.
+5.Mostly use of less complicated one rather going to take complicated structures as they cannot be understandable by the stackholders as well as the people.
+6.Use of simple cards like 1.Pichat 2.Bar Graphs 3.Number Cards 4.Gauge they can be easily convaying factor for all.
